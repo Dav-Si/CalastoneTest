@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Calastone": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\SampleText.txt\""
+    }
+  }
+}
